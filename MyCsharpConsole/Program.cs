@@ -14,5 +14,7 @@ class Program
         si.ShowStatusName();
         StatusInfo si2 = new StatusInfo(2,"Completed");
         si2.ShowStatusName();
+        Math m = new Math();
+        m.Greeting();
     }
 }
