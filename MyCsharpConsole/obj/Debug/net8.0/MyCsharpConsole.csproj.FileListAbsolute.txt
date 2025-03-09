@@ -1,0 +1,15 @@
+/workspaces/MyCsharpConsole/MyCsharpConsole/bin/Debug/net8.0/MyCsharpConsole
+/workspaces/MyCsharpConsole/MyCsharpConsole/bin/Debug/net8.0/MyCsharpConsole.deps.json
+/workspaces/MyCsharpConsole/MyCsharpConsole/bin/Debug/net8.0/MyCsharpConsole.runtimeconfig.json
+/workspaces/MyCsharpConsole/MyCsharpConsole/bin/Debug/net8.0/MyCsharpConsole.dll
+/workspaces/MyCsharpConsole/MyCsharpConsole/bin/Debug/net8.0/MyCsharpConsole.pdb
+/workspaces/MyCsharpConsole/MyCsharpConsole/obj/Debug/net8.0/MyCsharpConsole.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MyCsharpConsole/MyCsharpConsole/obj/Debug/net8.0/MyCsharpConsole.AssemblyInfoInputs.cache
+/workspaces/MyCsharpConsole/MyCsharpConsole/obj/Debug/net8.0/MyCsharpConsole.AssemblyInfo.cs
+/workspaces/MyCsharpConsole/MyCsharpConsole/obj/Debug/net8.0/MyCsharpConsole.csproj.CoreCompileInputs.cache
+/workspaces/MyCsharpConsole/MyCsharpConsole/obj/Debug/net8.0/MyCsharpConsole.sourcelink.json
+/workspaces/MyCsharpConsole/MyCsharpConsole/obj/Debug/net8.0/MyCsharpConsole.dll
+/workspaces/MyCsharpConsole/MyCsharpConsole/obj/Debug/net8.0/refint/MyCsharpConsole.dll
+/workspaces/MyCsharpConsole/MyCsharpConsole/obj/Debug/net8.0/MyCsharpConsole.pdb
+/workspaces/MyCsharpConsole/MyCsharpConsole/obj/Debug/net8.0/MyCsharpConsole.genruntimeconfig.cache
+/workspaces/MyCsharpConsole/MyCsharpConsole/obj/Debug/net8.0/ref/MyCsharpConsole.dll
