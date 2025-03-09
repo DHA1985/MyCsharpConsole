@@ -16,5 +16,12 @@ class Program
         si2.ShowStatusName();
         Math m = new Math();
         m.Greeting();
+
+         // Creating an object
+        Person person1 = new Person("Alice", 30);
+        person1.ShowInfo();
+
+        // Calling static method
+        Person.ShowClassInfo();
     }
 }
